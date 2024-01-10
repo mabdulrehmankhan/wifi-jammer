@@ -1,5 +1,7 @@
 # WiFiJammer
 
+![Wifi Jammer](https://img.shields.io/badge/WiFi-Jammer-blue)
+
 **Disconnect Nearby Access Points and Stations with WiFiJammer**
 
 WiFiJammer is a powerful tool designed to disrupt and analyze Wi-Fi networks by forging and transmitting deauthentication frames. Built on top of Scapy, this tool utilizes channel hopping and frame forging from a single interface, providing a comprehensive solution for testing and understanding Wi-Fi security. Compatible with Python 3.
